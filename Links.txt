@@ -70,6 +70,8 @@ Don't know where to start? <----------------------------------------------------
 # Programming
 33. http://www.mediafire.com/download/su02297mbmlxq27/C%2B%2B+Fundamentals.rar 						-- C++ Fundamentals
 34. http://www.mediafire.com/download/9tgfpx8pzwakrjc/C%2B%2B_Advanced_Topics.rar 					-- C++ Advanced topics
+75. http://www.mediafire.com/download/com5mg5fda6mwd6/C+Fundamentals.rar						-- C Fundamentals
+76. http://www.mediafire.com/download/dzr3d2jymdhdqs6/C+in+Action.rar							-- C in Action
 35. http://www.mediafire.com/download/rr8kjao0zaxld3o/JavaScript+from+Scratch.rar 					-- Javascript from Scratch
 36. http://www.mediafire.com/download/fd9r8hc6u6zouga/SitePoint-Introduction.to.JavaScript.7z				-- Introduction to Javascript, by anominous - thanks dude, you rock!
 37. http://www.mediafire.com/download/w37r7339ouih7lg/Introduction+to+HTML+for+Designers.rar 				-- Introduction to HTML (for designers - you don't really need to be a designer)
@@ -82,7 +84,6 @@ Don't know where to start? <----------------------------------------------------
 44. http://www.mediafire.com/download/dbn6i84zfsb8566/Python_%E2%80%93_Beyond_the_Basics.rar 				-- Python Beyond the basics
 45. http://www.mediafire.com/download/p9oappfwmb5mdvb/SitePoint-Ruby2.7z						-- Ruby 2.0, by anominous - thanks dude!
 46. http://www.mediafire.com/download/9anvrv6dxaaacbn/SitePoint-Getting.Started.with.BackBone.js.7z			-- Getting started with BackBone.js, by anominous - thanks dude!
-
 
 # Cisco CCNA Security (640-554)
 47. http://www.mediafire.com/download/yraijpmuzoa1zpn/Cisco+CCNA+Security%3B+Introduction+to+Network+Security.rar 	-- Introduction to Network Security
