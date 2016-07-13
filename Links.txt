@@ -50,6 +50,7 @@ Don't know where to start? <----------------------------------------------------
 20. http://www.mediafire.com/download/t98r47bpo9hy5n1/Introduction+to+browser+security+headers.rar 			-- Introduction to browser security headers
 21. http://www.mediafire.com/download/ou45m7o4xqt1qdu/Introduction+to+Wireshark.rar 					-- Introduction to Wireshark
 22. http://www.mediafire.com/download/n5exc1bomahud9m/Troubleshooting+with+Wireshark+Fundamental+Protocol+Analysis.rar 	-- Troubleshooting with Wireshark
+80. http://www.mediafire.com/download/n98viipaz131fhq/Wireshark+2.0.rar							-- Wireshark 2.0
 23. http://www.mediafire.com/download/sbst1evvisywe62/Buffer+Overflow.rar						-- All about buffer overflows			
 24. http://www.mediafire.com/download/7rq1ujn9424d3hb/Network+PT+Using+Python+and+K_4li+Linux.rar 			-- Network Pentesting using Python and Kali linux
 25. http://www.mediafire.com/download/mnulcdbw817f9q0/Metasploit+Basics.rar 						-- Metasploit Basics
@@ -58,6 +59,7 @@ Don't know where to start? <----------------------------------------------------
 28. http://www.mediafire.com/download/roaeau041zx8byx/SSCP%3B+Risk+Identification%2C+Monitoring%2C+and+Analysis.rar	-- SSCP: Risk Identification, Monitoring, and Analysis
 29. http://www.mediafire.com/download/ysvx972ymd57gme/Check+Point+Certified+Security+Administrator%3B+Install+%26+Deploy.rar-- Check Point Certified Security Administrator; Install & Deploy
 73. http://www.mediafire.com/download/ka9qu9136x8on4j/Cloud+security.rar						-- Cloud Security
+79. http://www.mediafire.com/download/6ctvkguxr9g4609/Cloud+computing.rar						-- Cloud Computing
 74. http://www.mediafire.com/download/5ut59in0l6okeaq/Introduction+to+Penetration+Testing+Using+Metasploit.rar		-- Introduction to Pentesting using Metasploit
 
 # Coursera
@@ -72,6 +74,7 @@ Don't know where to start? <----------------------------------------------------
 34. http://www.mediafire.com/download/9tgfpx8pzwakrjc/C%2B%2B_Advanced_Topics.rar 					-- C++ Advanced topics
 75. http://www.mediafire.com/download/com5mg5fda6mwd6/C+Fundamentals.rar						-- C Fundamentals
 76. http://www.mediafire.com/download/dzr3d2jymdhdqs6/C+in+Action.rar							-- C in Action
+77. http://www.mediafire.com/download/t5rygwbb45izg71/Java+Fundamentals.rar						-- Java Fundamentals
 35. http://www.mediafire.com/download/rr8kjao0zaxld3o/JavaScript+from+Scratch.rar 					-- Javascript from Scratch
 36. http://www.mediafire.com/download/fd9r8hc6u6zouga/SitePoint-Introduction.to.JavaScript.7z				-- Introduction to Javascript, by anominous - thanks dude, you rock!
 37. http://www.mediafire.com/download/w37r7339ouih7lg/Introduction+to+HTML+for+Designers.rar 				-- Introduction to HTML (for designers - you don't really need to be a designer)
@@ -124,7 +127,7 @@ Don't know where to start? <----------------------------------------------------
 70. http://www.mediafire.com/download/cp8w28mcl1258o4/ScrumFundamentals.rar 						-- The fundamentals of Scrum methodology
 71. http://www.mediafire.com/download/0u690ecz1q8lj1k/1.+Building+a+successful+blog.rar 				-- Building a successful blog
 72. http://www.mediafire.com/download/653jtq5261zuapx/2.+Building+a+High+Traffic%2C+Profitable+Blog.rar 		-- Building a high traffic profitable blog
-
+78. http://www.mediafire.com/download/xvgjnq2ispauz3v/Fiddler.rar							-- Fiddler
 
 === PDF Resources === 
 http://www.mediafire.com/download/0i9b46gjcqzr2jc/root-me-docs.rar 	-- Useful PDFs about a huge amount of topics regarding hacking, extracted from repository.root-me.org
