@@ -18,7 +18,7 @@ Web: www.anonops.com
 
 Don't know where to start? <-------------------------------------------------------------------------> Don't know where to start? <------------------------------------------------------------------------------------------------------------------------------------------------
 
--> The following link will give you with ~5 hours of content to get started on how pentesting works and each step involved in the process: 0. http://www.mediafire.com/download/492h7o887yxexha/PT+and+EH+with+Kali+Linux.rar  (Introduction to Pentesting and Ethical Hacking with Kali Linux)
+-> BEGINNERS MUST WATCH: 10,000 foot view of penetration testing: 									   81. http://www.mediafire.com/download/b71c8v6tbqxzure/Introduction+to+Pentesting.rar
 
 -> A ~9 hour long course on website vulnerabilities and how to exploit/secure them: 							   1. http://www.mediafire.com/download/7dgfkktgyxlqx5u/Hack+Yourself+First%3B+How+to+go+on+the+Cyber-Offense.rar (Hack Yourself First; How to go on the Cyber-Offense)
 
@@ -46,6 +46,7 @@ Don't know where to start? <----------------------------------------------------
 18. http://www.mediafire.com/download/l45v3ne52qr9llw/Mobile+platforms.rar 						-- Hacking Mobile Platforms
 
 # More hacking courses
+ 0. http://www.mediafire.com/download/492h7o887yxexha/PT+and+EH+with+Kali+Linux.rar  					-- Introduction to Pentesting and Ethical Hacking with Kali Linux
 19. http://www.mediafire.com/download/2kczrn29gt6fdp3/Introduction+to+Firewalls.rar 					-- Introduction to Firewalls
 20. http://www.mediafire.com/download/t98r47bpo9hy5n1/Introduction+to+browser+security+headers.rar 			-- Introduction to browser security headers
 21. http://www.mediafire.com/download/ou45m7o4xqt1qdu/Introduction+to+Wireshark.rar 					-- Introduction to Wireshark
