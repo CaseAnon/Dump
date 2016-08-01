@@ -89,6 +89,7 @@ Don't know where to start? <----------------------------------------------------
 44. http://www.mediafire.com/download/dbn6i84zfsb8566/Python_%E2%80%93_Beyond_the_Basics.rar 				-- Python Beyond the basics
 45. http://www.mediafire.com/download/p9oappfwmb5mdvb/SitePoint-Ruby2.7z						-- Ruby 2.0, by anominous - thanks dude!
 46. http://www.mediafire.com/download/9anvrv6dxaaacbn/SitePoint-Getting.Started.with.BackBone.js.7z			-- Getting started with BackBone.js, by anominous - thanks dude!
+83. http://www.mediafire.com/download/8b63ljih3cjl426/PowerShell_-_Getting_Started.rar					-- Introduction to PowerShell
 
 # Cisco CCNA Security (640-554)
 47. http://www.mediafire.com/download/yraijpmuzoa1zpn/Cisco+CCNA+Security%3B+Introduction+to+Network+Security.rar 	-- Introduction to Network Security
