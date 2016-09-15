@@ -82,6 +82,7 @@ Don't know where to start? <----------------------------------------------------
 37. http://www.mediafire.com/download/w37r7339ouih7lg/Introduction+to+HTML+for+Designers.rar 				-- Introduction to HTML (for designers - you don't really need to be a designer)
 38. http://www.mediafire.com/download/0j09qr98vtbdjab/Introduction+to+jQuery+for+Designers.rar 				-- Introduction to JQuery
 39. http://www.mediafire.com/download/jj466s79n75ns46/Introduction+to+CSS+for+Designers.rar 				-- Introduction to CSS
+84. http://www.mediafire.com/download/pvmstcc4abura43/Arduino.rar							-- Introduction to Arduino
 40. http://www.mediafire.com/download/sbrgwwksehmz8rc/Angular_Js_-_Get_Started.rar 					-- Get started with AngularJS
 41. http://www.mediafire.com/download/e5ynwz4th5g3bvo/Building+Angular+and+Node.js+Apps+with+the+MEAN+Stack.rar 	-- Building Angular and Node JS Apps with the MEAN Stack
 42. http://www.mediafire.com/download/ooulsej4ui421q6/ExtJS+Desktop+Fundamentals.rar 					-- ExtJS Desktop Fundamentals
@@ -90,6 +91,8 @@ Don't know where to start? <----------------------------------------------------
 45. http://www.mediafire.com/download/p9oappfwmb5mdvb/SitePoint-Ruby2.7z						-- Ruby 2.0, by anominous - thanks dude!
 46. http://www.mediafire.com/download/9anvrv6dxaaacbn/SitePoint-Getting.Started.with.BackBone.js.7z			-- Getting started with BackBone.js, by anominous - thanks dude!
 83. http://www.mediafire.com/download/8b63ljih3cjl426/PowerShell_-_Getting_Started.rar					-- Introduction to PowerShell
+85. http://www.mediafire.com/download/sl36dmuomdld4qa/RaspberryPi+HomeServer.rar					-- Raspberry Pi Home Server
+86. http://www.mediafire.com/download/5u2g1svecr1iukm/Raspberry+for+Devs.rar						-- Raspberry Pi for Developers
 
 # Cisco CCNA Security (640-554)
 47. http://www.mediafire.com/download/yraijpmuzoa1zpn/Cisco+CCNA+Security%3B+Introduction+to+Network+Security.rar 	-- Introduction to Network Security
@@ -132,11 +135,9 @@ Don't know where to start? <----------------------------------------------------
 72. http://www.mediafire.com/download/653jtq5261zuapx/2.+Building+a+High+Traffic%2C+Profitable+Blog.rar 		-- Building a high traffic profitable blog
 78. http://www.mediafire.com/download/xvgjnq2ispauz3v/Fiddler.rar							-- Fiddler
 
-=== PDF Resources === 
+=== Other Resources === 
 http://www.mediafire.com/download/0i9b46gjcqzr2jc/root-me-docs.rar 	-- Useful PDFs about a huge amount of topics regarding hacking, extracted from repository.root-me.org
-http://cli.learncodethehardway.org/bash_cheat_sheet.pdf 		-- Useful bash cheatsheet
-http://entropy.aix.ovh/							-- Crazy amount of PDFs regarding hacking & programming, by aix - thanks man
-
+http://github.com/juandecarrion/awesome-self-hosted			-- A curated list of awesome self hosted alternatives to cloud services.
 
 === Practice what you learn ===
 * https://pentesterlab.com/exercises
