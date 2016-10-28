@@ -1,4 +1,4 @@
-                                                           
+                                                             
      /\                                                      
     /  \   _ __   ___  _ __  _   _ _ __ ___   ___  _   _ ___ 
    / /\ \ | '_ \ / _ \| '_ \| | | | '_ ` _ \ / _ \| | | / __|
@@ -141,6 +141,17 @@ Don't know where to start? <----------------------------------------------------
 === Other Resources === 
 http://www.mediafire.com/download/0i9b46gjcqzr2jc/root-me-docs.rar 	-- Useful PDFs about a huge amount of topics regarding hacking, extracted from repository.root-me.org
 http://github.com/juandecarrion/awesome-self-hosted			-- A curated list of awesome self hosted alternatives to cloud services.
+http://www.mediafire.com/file/02om55j9itey5x6/Perl.rar			-- Perl documents
+http://www.mediafire.com/file/g83pv4ov2v139ha/RedHat.rar		-- Red hat documents
+http://www.mediafire.com/file/j6bgke83y4eyo2x/Reverse+Engineering.rar   -- Reverse Engineering
+http://www.mediafire.com/file/zfnt7r9gkmasrjd/Assembly.rar              -- Assembly
+
+** Ask Case for PDFs and other stuff on a specific topic. There are also the following courses available which have not been categorized yet:
+Introduction to game development with Unity http://www.mediafire.com/file/i7cam1iydph3q6c/Introduction+to+Game+Development+with+Unity.rar
+FMOD http://www.mediafire.com/file/bsix3j259btgr3j/FMOD.rar
+Digital audio fundamentals http://www.mediafire.com/file/i23kxm6zgo2nkva/Digital+Audio+Fundamentals.rar
+Alchemy synth http://www.mediafire.com/file/x301h7qxz7jxpyz/Alchemy+Synth+Fundamentals+in+Logic+Pro.rar
+
 
 === Practice what you learn ===
 * https://pentesterlab.com/exercises
@@ -150,112 +161,6 @@ http://github.com/juandecarrion/awesome-self-hosted			-- A curated list of aweso
 * use fucking google
 * hacksplaining.com
 * vulnhub.com
-
-Other free hacking/IT videos: www.cybrary.it
-Interesting github: https://github.com/hackedteam/  -- Check out Hacking Team if you haven't!
-17. http://www.mediafire.com/download/33z5epburhu1xgy/Evading+IDS%2C+Firewalls%2C+and+Honeypots.rar 			-- Evading IDS, Firewalls, and Honeypots
-18. http://www.mediafire.com/download/l45v3ne52qr9llw/Mobile+platforms.rar 						-- Hacking Mobile Platforms
-
-# More hacking courses
- 0. http://www.mediafire.com/download/492h7o887yxexha/PT+and+EH+with+Kali+Linux.rar  					-- Introduction to Pentesting and Ethical Hacking with Kali Linux
-19. http://www.mediafire.com/download/2kczrn29gt6fdp3/Introduction+to+Firewalls.rar 					-- Introduction to Firewalls
-20. http://www.mediafire.com/download/t98r47bpo9hy5n1/Introduction+to+browser+security+headers.rar 			-- Introduction to browser security headers
-21. http://www.mediafire.com/download/ou45m7o4xqt1qdu/Introduction+to+Wireshark.rar 					-- Introduction to Wireshark
-22. http://www.mediafire.com/download/n5exc1bomahud9m/Troubleshooting+with+Wireshark+Fundamental+Protocol+Analysis.rar 	-- Troubleshooting with Wireshark
-80. http://www.mediafire.com/download/n98viipaz131fhq/Wireshark+2.0.rar							-- Wireshark 2.0
-82. http://www.mediafire.com/download/3guhkfrhfbvs01b/NMAP.rar								-- Network Security Testing with Nmap
-23. http://www.mediafire.com/download/sbst1evvisywe62/Buffer+Overflow.rar						-- All about buffer overflows			
-24. http://www.mediafire.com/download/7rq1ujn9424d3hb/Network+PT+Using+Python+and+K_4li+Linux.rar 			-- Network Pentesting using Python and Kali linux
-25. http://www.mediafire.com/download/mnulcdbw817f9q0/Metasploit+Basics.rar 						-- Metasploit Basics
-26. http://www.mediafire.com/download/qchaazzxrdsmwja/CloudFlare+Security.rar 						-- CloudFlare Security
-27. http://www.mediafire.com/download/1qqm5pcj6pz37wn/Hack+your+API+First.rar						-- Hack your API first
-28. http://www.mediafire.com/download/roaeau041zx8byx/SSCP%3B+Risk+Identification%2C+Monitoring%2C+and+Analysis.rar	-- SSCP: Risk Identification, Monitoring, and Analysis
-29. http://www.mediafire.com/download/ysvx972ymd57gme/Check+Point+Certified+Security+Administrator%3B+Install+%26+Deploy.rar-- Check Point Certified Security Administrator; Install & Deploy
-73. http://www.mediafire.com/download/ka9qu9136x8on4j/Cloud+security.rar						-- Cloud Security
-79. http://www.mediafire.com/download/6ctvkguxr9g4609/Cloud+computing.rar						-- Cloud Computing
-74. http://www.mediafire.com/download/5ut59in0l6okeaq/Introduction+to+Penetration+Testing+Using+Metasploit.rar		-- Introduction to Pentesting using Metasploit
-
-# Coursera
-30. http://www.mediafire.com/download/mvk782rt6k28yha/Software+Security.rar 						-- Software Security
-31. http://www.mediafire.com/download/vxd0998dmniuccz/Hardware+Security.rar 						-- Hardware Security
-32. http://www.mediafire.com/download/mehi7uxazp5f6g6/Bitcoin+and+Cryptocurrency+Technologies+[Princeton+University].7z	-- Bitcoin & Cryptocurrency tech, by anominous - thanks!
-
-=== OTHER VIDEO COURSES ===
-
-# Programming
-33. http://www.mediafire.com/download/su02297mbmlxq27/C%2B%2B+Fundamentals.rar 						-- C++ Fundamentals
-34. http://www.mediafire.com/download/9tgfpx8pzwakrjc/C%2B%2B_Advanced_Topics.rar 					-- C++ Advanced topics
-75. http://www.mediafire.com/download/com5mg5fda6mwd6/C+Fundamentals.rar						-- C Fundamentals
-76. http://www.mediafire.com/download/dzr3d2jymdhdqs6/C+in+Action.rar							-- C in Action
-77. http://www.mediafire.com/download/t5rygwbb45izg71/Java+Fundamentals.rar						-- Java Fundamentals
-35. http://www.mediafire.com/download/rr8kjao0zaxld3o/JavaScript+from+Scratch.rar 					-- Javascript from Scratch
-36. http://www.mediafire.com/download/fd9r8hc6u6zouga/SitePoint-Introduction.to.JavaScript.7z				-- Introduction to Javascript, by anominous - thanks dude, you rock!
-37. http://www.mediafire.com/download/w37r7339ouih7lg/Introduction+to+HTML+for+Designers.rar 				-- Introduction to HTML (for designers - you don't really need to be a designer)
-38. http://www.mediafire.com/download/0j09qr98vtbdjab/Introduction+to+jQuery+for+Designers.rar 				-- Introduction to JQuery
-39. http://www.mediafire.com/download/jj466s79n75ns46/Introduction+to+CSS+for+Designers.rar 				-- Introduction to CSS
-84. http://www.mediafire.com/download/pvmstcc4abura43/Arduino.rar							-- Introduction to Arduino
-40. http://www.mediafire.com/download/sbrgwwksehmz8rc/Angular_Js_-_Get_Started.rar 					-- Get started with AngularJS
-41. http://www.mediafire.com/download/e5ynwz4th5g3bvo/Building+Angular+and+Node.js+Apps+with+the+MEAN+Stack.rar 	-- Building Angular and Node JS Apps with the MEAN Stack
-42. http://www.mediafire.com/download/ooulsej4ui421q6/ExtJS+Desktop+Fundamentals.rar 					-- ExtJS Desktop Fundamentals
-43. http://www.mediafire.com/download/gsc0epd3jvgayfb/Python+Fundamentals.rar						-- Python Fundamentals
-44. http://www.mediafire.com/download/dbn6i84zfsb8566/Python_%E2%80%93_Beyond_the_Basics.rar 				-- Python Beyond the basics
-45. http://www.mediafire.com/download/p9oappfwmb5mdvb/SitePoint-Ruby2.7z						-- Ruby 2.0, by anominous - thanks dude!
-46. http://www.mediafire.com/download/9anvrv6dxaaacbn/SitePoint-Getting.Started.with.BackBone.js.7z			-- Getting started with BackBone.js, by anominous - thanks dude!
-83. http://www.mediafire.com/download/8b63ljih3cjl426/PowerShell_-_Getting_Started.rar					-- Introduction to PowerShell
-85. http://www.mediafire.com/download/sl36dmuomdld4qa/RaspberryPi+HomeServer.rar					-- Raspberry Pi Home Server
-86. http://www.mediafire.com/download/5u2g1svecr1iukm/Raspberry+for+Devs.rar						-- Raspberry Pi for Developers
-
-# Cisco CCNA Security (640-554)
-47. http://www.mediafire.com/download/yraijpmuzoa1zpn/Cisco+CCNA+Security%3B+Introduction+to+Network+Security.rar 	-- Introduction to Network Security
-48. http://www.mediafire.com/download/lmj3ri990ou3j64/Cisco_CCNA_Security%3B_AAA_and_IP_Security.rar 			-- AAA and IP Security
-49. http://www.mediafire.com/download/lhajdkufn9oi5ta/Cisco+CCNA+Security%3B+Firewalls+and+VPNs.rar 			-- Firewalls and VPNs
-
-# CompTIA A+ (220-801)
-50. http://www.mediafire.com/download/f5013b98tc40fj8/CompTIA+A%2B+Part+1%3B+Computer+Hardware.rar 			-- CompTIA A+ Part 1: Computer Hardware
-51. http://www.mediafire.com/download/38q520p66a5a68q/CompTIA+A%2B+Part+2%3B+Networking.rar 				-- CompTIA A+ Part 2: Networking
-52. http://www.mediafire.com/download/psmkodtkcy440rz/CompTIA+A%2B+Part+3%3B+Peripherals+and+best+practices.rar 	-- CompTIA A+ Part 3: Peripherals and best practices 
-53. http://www.mediafire.com/download/mi3mvleyyd8ayu4/CompTIA+A%2B+Part+4%3B+Operating+Systems.rar 			-- CompTIA A+ Part 4: Operating System
-54. http://www.mediafire.com/download/5scd91h4gkaefoa/CompTIA+A%2B+Part+5%3B+Mobile+Devices+and+Troubleshooting.rar 	-- CompTIA A+ Part 5: Mobile Devices and Troubleshooting
-
-# CompTIA Security+ (SY0-401)
-55. http://www.mediafire.com/download/wbdho927tnl1p26/CompTIA+Security%2B.rar						-- CompTIA Security+ Domain 1 - Network Security.
-
-# CompTIA Network+ (N10-006)
-56. http://www.mediafire.com/download/2j9vbybrqab3x5q/Network+Architecture+for+CompTIA+Network%2B.rar 			-- Network Architecture
-57. http://www.mediafire.com/download/y65xsb8n6rfdcp8/Network+Operations+for+CompTIA+Network%2B.rar   			-- Network Operations
-58. http://www.mediafire.com/download/d4qdr3jwh337033/Network+Security+for+CompTIA+Network%2B.rar 	  		-- Network Security
-
-# Linux
-59. http://www.mediafire.com/download/xxz33o4tq1obpzk/Linux+Installation+and+Initial+Configuration.rar 			-- Linux Installation and Initial Configuration
-60. http://www.mediafire.com/download/i24oogco4ch9ma4/Introduction+to+the+Bash+Shell.rar 				-- Introduction to the Bash Shell
-61. http://www.mediafire.com/download/t5eha9cr4eckayb/Shell+Scripting+with+Bash.rar 					-- Shell Scripting with Bash
-62. http://www.mediafire.com/download/27hfeldyqrs2ae8/Linux+Command+Line+Interface+%28CLI%29+Fundamentals.rar 		-- Linux Command Line Interface Fundamentals
-
-# Video editing
-63. http://www.mediafire.com/download/6pn0jr7nlb7rmc0/Adobe+Premiere+Pro+CC+Fundamentals.rar 				-- Adobe Premiere Pro CC Fundamentals
-64. http://www.mediafire.com/download/ys44ptebw6tk4o8/Animation+and+Video+Editing+in+Photoshop+CS6.rar 			-- Animation and Video Editing in Photoshop CS6
-65. http://www.mediafire.com/download/evuudd9t6dtc3ej/Color+Correction+and+Grading+in+Adobe+Premiere+Pro+and+SpeedGrade.rar -- Color Correction and Grading in Adobe Premiere Pro and SpeedGrade
-66. http://www.mediafire.com/download/0gu7x007mpaclwd/Action+Scene+Editing+Techniques+in+Adobe+Premiere+Pro.rar 	-- Action Scene Editing Techniques in Adobe Premiere Pro
-67. http://www.mediafire.com/download/u6dko8ug5ysbrw2/Adobe+Premiere+Pro+CS6.rar 					-- Adobe Premiere Pro CS6 Setup [This is the software, not a course]
-
-# Others
-68. http://www.mediafire.com/download/6ny3ybv2ojzr6vt/Clean+Code.rar 							-- Clean Code
-69. http://www.mediafire.com/download/cc6ibqxbhdcivea/TDD+with+Brad+Wilson.rar 						-- Test Driven Development with Brad Wilson
-70. http://www.mediafire.com/download/cp8w28mcl1258o4/ScrumFundamentals.rar 						-- The fundamentals of Scrum methodology
-71. http://www.mediafire.com/download/0u690ecz1q8lj1k/1.+Building+a+successful+blog.rar 				-- Building a successful blog
-72. http://www.mediafire.com/download/653jtq5261zuapx/2.+Building+a+High+Traffic%2C+Profitable+Blog.rar 		-- Building a high traffic profitable blog
-78. http://www.mediafire.com/download/xvgjnq2ispauz3v/Fiddler.rar							-- Fiddler
-
-=== Other Resources === 
-http://www.mediafire.com/download/0i9b46gjcqzr2jc/root-me-docs.rar 	-- Useful PDFs about a huge amount of topics regarding hacking, extracted from repository.root-me.org
-http://github.com/juandecarrion/awesome-self-hosted			-- A curated list of awesome self hosted alternatives to cloud services.
-
-=== Practice what you learn ===
-* https://pentesterlab.com/exercises
-* root-me.org -> webclient and webserver challenges can be done on the go, Capture The Flag, etc.
-* hackerrank.com -> Very good for learning programming, has on-the-go exercises
-* codeacademy.com
-* use fucking google
 
 Other free hacking/IT videos: www.cybrary.it
 Interesting github: https://github.com/hackedteam/  -- Check out Hacking Team if you haven't!
