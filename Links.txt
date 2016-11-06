@@ -7,7 +7,7 @@
                               __/ |                          
                              |___/                           
 
-Courses pirated & dumped by Case                                                                 
+Courses pirated & dumped by Case                                                                
 Web: www.anonops.com
 
 * This series of videocourses will guide you through the core material that an entry-level "ethical" hacker needs.
@@ -15,8 +15,8 @@ Web: www.anonops.com
 * You may want to use a media player that allows you to increase the speed of the videos
 * The number does not mean the order in which you should follow the courses, its just the order in which they were added.
 * Use ?desc <coursenumber> to check the description of a course. Eg: ?desc 81
-* Special thanks to ClaudiaD who haxed her way and made downloading the videos a lot easier, you rock
-
+* Special thanks to ClaudiaD who haxed her way and made downloading the videos a lot easier, you rock. I also reused the code of her IRC bot which lead to the birth of SexyTeacherBot. Thanks ;)
+* Special thanks to S1rlancelot who has also dumped a great deal of courses as well and helps more than I could ever ask for in #learninghub and is also leet as fuck
 
 Don't know where to start? <-------------------------------------------------------------------------> Don't know where to start? <------------------------------------------------------------------------------------------------------------------------------------------------
 
