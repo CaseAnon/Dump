@@ -8,7 +8,8 @@
                              |___/                           
 
 Courses pirated & dumped by Case                                                                
-Web: www.anonops.com
+irc.anonops.com/6697
+#learninghub
 
 * This series of videocourses will guide you through the core material that an entry-level "ethical" hacker needs.
 * Go to pluralsight.com (most links here are from there) and search the course if you want to see a short description and the table of contents.
@@ -165,11 +166,16 @@ Don't know where to start? <----------------------------------------------------
 
 === Other Resources === 
 http://www.mediafire.com/download/0i9b46gjcqzr2jc/root-me-docs.rar 	-- Useful PDFs about a huge amount of topics regarding hacking, extracted from repository.root-me.org
-http://github.com/juandecarrion/awesome-self-hosted			-- A curated list of awesome self hosted alternatives to cloud services.
 http://www.mediafire.com/file/02om55j9itey5x6/Perl.rar			-- Perl documents
 http://www.mediafire.com/file/g83pv4ov2v139ha/RedHat.rar		-- Red hat documents
 http://www.mediafire.com/file/j6bgke83y4eyo2x/Reverse+Engineering.rar   -- Reverse Engineering
 http://www.mediafire.com/file/zfnt7r9gkmasrjd/Assembly.rar              -- Assembly
+
+http://github.com/juandecarrion/awesome-self-hosted			-- A curated list of awesome self hosted alternatives to cloud services.
+https://github.com/paragonie/awesome-appsec				-- A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
+https://jivoi.github.io/2015/06/19/oscp-prepare/			-- OSCP Prepare
+https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/	-- All you need to pass OSCP
+https://github.com/kurobeats/pentest-bookmarks/				-- A collection of handy bookmarks
 
 ** Ask Case for PDFs and other stuff on a specific topic. There are also the following courses available which have not been categorized yet:
 Introduction to game development with Unity http://www.mediafire.com/file/i7cam1iydph3q6c/Introduction+to+Game+Development+with+Unity.rar
