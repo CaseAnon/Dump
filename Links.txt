@@ -171,6 +171,7 @@ http://www.mediafire.com/file/g83pv4ov2v139ha/RedHat.rar		-- Red hat documents
 http://www.mediafire.com/file/j6bgke83y4eyo2x/Reverse+Engineering.rar   -- Reverse Engineering
 http://www.mediafire.com/file/zfnt7r9gkmasrjd/Assembly.rar              -- Assembly
 
+https://cybersecuritybase.github.io/ 					-- Free course series by University of Helsinki in collaboration with F-Secure
 https://www.mediafire.com/folder/y952n2935ocnf/Documents		-- 160 books on security stuff
 https://github.com/onlurking/awesome-infosec				-- A curated list of awesome information security resources
 http://github.com/juandecarrion/awesome-self-hosted			-- A curated list of awesome self hosted alternatives to cloud services.
