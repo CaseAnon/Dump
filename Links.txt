@@ -7,7 +7,7 @@
                               __/ |                          
                              |___/                           
 
-Courses pirated & dumped by Case                                                                
+Courses pirated & dumped by Case & S1rlancelot                                                               
 irc.anonops.com/6697
 #learninghub
 
@@ -67,7 +67,7 @@ Don't know where to start? <----------------------------------------------------
 79. http://www.mediafire.com/download/6ctvkguxr9g4609/Cloud+computing.rar						-- Cloud Computing
 74. http://www.mediafire.com/download/5ut59in0l6okeaq/Introduction+to+Penetration+Testing+Using+Metasploit.rar		-- Introduction to Pentesting using Metasploit
 
-# Computer Hacking Forensic Investigator (CHFI) -- Dumped by S1rlancelot, fucking boss
+# Computer Hacking Forensic Investigator (CHFI)
 88. http://www.mediafire.com/file/yinvs2vtn4ix9z0/CHFI_Module_1_Introduction.rar					—- Module 1 Introduction
 89. http://www.mediafire.com/file/9yai0s961xkb7p3/CHFI_Module_2_Forensics_Investigation_Process.rar			—- Module 2 Forensics & Investigation Process
 90. http://www.mediafire.com/file/l16n7as0zc5fgb4/CHFI_Module_3_Searching_%26_Seizing.rar				—- Module 3 Searching & Seizing
@@ -91,6 +91,15 @@ Don't know where to start? <----------------------------------------------------
 108. http://www.mediafire.com/file/jz70shpdzso40ne/CHFI_Module_21_Investigative_Reports.rar				—- Module 21 Investigative Reports
 109. http://www.mediafire.com/file/926yco1rhqo2ow2/CHFI_Module_22_Expert_Witness.rar					—- Module 22 Expert Witness
 	
+# Certified Information Systems Security Pro (CISSP)
+110. http://www.mediafire.com/file/x3zeprhl92pad8v/CISSP_Module_1_Security_and_Risk_Management.rar			—- CISSP Module 1 Security and Risk Management
+111. http://www.mediafire.com/file/d9acozildd28f5b/CISSP_Module_2_Asset_Security.rar					—- CISSP Module 2 Asset Security
+112. http://www.mediafire.com/file/bn8xf99fe3obo37/CISSP_Module_3_Security_Engineering.rar				—- CISSP Module 3 Security Engineering
+113. http://www.mediafire.com/file/znr4pbbbn9qcges/CISSP_Module_4_Communication_and_Network_Security.rar		—- CISSP Module 4 Communication and Network Security
+114. http://www.mediafire.com/file/gdppws5602q99m6/CISSP_Module_5_Identity_and_Access_Management.rar			—- CISSP Module 5 Identity and Access Management
+115. http://www.mediafire.com/file/wpwwr58ba2cpva3/CISSP_Module_6_Security_Assessment_Testing.rar			—- CISSP Module 6 Security Assessment Testing
+116. http://www.mediafire.com/file/1yn1ilhrrxj3ci9/CISSP_Module_7_Security_Operations.rar				—- CISSP Module 7 Security Operations
+117. http://www.mediafire.com/file/l35bcalku7d225c/CISSP_Module_8_Software_Development_Security.rar			—- CISSP Module 8 Software Development Security	
 
 # Coursera
 30. http://www.mediafire.com/download/mvk782rt6k28yha/Software+Security.rar 						-- Software Security
