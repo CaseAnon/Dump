@@ -101,6 +101,15 @@ Don't know where to start? <----------------------------------------------------
 116. http://www.mediafire.com/file/1yn1ilhrrxj3ci9/CISSP_Module_7_Security_Operations.rar				—- CISSP Module 7 Security Operations
 117. http://www.mediafire.com/file/l35bcalku7d225c/CISSP_Module_8_Software_Development_Security.rar			—- CISSP Module 8 Software Development Security	
 
+# Certified Information Systems Auditor (CISA)
+118. http://www.mediafire.com/file/7cb389z90ajw6zm/CISA_-_Lesson_1.rar							—- CISA Lesson 1
+119. http://www.mediafire.com/file/g5ajbgf8prna3kw/CISA_-_Lesson_2.rar							—- CISA Lesson 2
+120. http://www.mediafire.com/file/6fosq372h74fm85/CISA_-_Lesson_3.rar							—- CISA Lesson 3
+121. http://www.mediafire.com/file/t05o81gzv2r7w3i/CISA_-_Lesson_4.rar							—- CISA Lesson 4
+122. http://www.mediafire.com/file/p46jtleg2rj5nhr/CISA_-_Lesson_5.rar							—- CISA Lesson 5
+123. http://www.mediafire.com/file/cpdin9zuk2p349s/CISA_-_Lesson_6.rar							—- CISA Lesson 6
+124. http://www.mediafire.com/file/icqjn9oli47k7o3/CISA_-_Lesson_7.rar							—- CISA Lesson 7 
+
 # Coursera
 30. http://www.mediafire.com/download/mvk782rt6k28yha/Software+Security.rar 						-- Software Security
 31. http://www.mediafire.com/download/vxd0998dmniuccz/Hardware+Security.rar 						-- Hardware Security
