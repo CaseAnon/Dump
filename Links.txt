@@ -12,7 +12,7 @@ irc.anonops.com/6697
 #learninghub
 
 * This series of videocourses will guide you through the core material that an entry-level "ethical" hacker needs.
-* Go to pluralsight.com (most links here are from there) and search the course if you want to see a short description and the table of contents.
+* Go to pluralsight.com (most links here are from there) and search the course if you want to see the table of contents.
 * You may want to use a media player that allows you to increase the speed of the videos
 * The number does not mean the order in which you should follow the courses, its just the order in which they were added.
 * Use ?desc <coursenumber> to check the description of a course. Eg: ?desc 81
@@ -23,12 +23,15 @@ Don't know where to start? <----------------------------------------------------
 
 -> BEGINNERS MUST WATCH: 10,000 foot view of penetration testing: 									   81. http://www.mediafire.com/download/b71c8v6tbqxzure/Introduction+to+Pentesting.rar
 
--> The top 10 OWASP vulnerabilities explained & exploited. Good for getting a big picture of present day hacking: 			   2. http://www.mediafire.com/download/zodyqcqoecka4yi/Web+Security+and+the+OWASP+Top+10%3B+The+Big+Picture.rar
+-> The top 10 OWASP vulnerabilities explained & exploited. Good for getting a big picture of present day web hacking: 			   2. http://www.mediafire.com/download/zodyqcqoecka4yi/Web+Security+and+the+OWASP+Top+10%3B+The+Big+Picture.rar
 
 -> A ~9 hour long course on website vulnerabilities and how to exploit/secure them: 							   1. http://www.mediafire.com/download/7dgfkktgyxlqx5u/Hack+Yourself+First%3B+How+to+go+on+the+Cyber-Offense.rar (Hack Yourself First; How to go on the Cyber-Offense)
 
 -------------------------------------------------------------------------------> The rest of the courses listed below will go deeper into each step of hacking and the different attack techniques. <-------------------------------------------------------------------------------
 
+*** IF YOU FEEL THAT YOU NEED TO KNOW MORE BASICS ABOUT COMPUTERS BEFORE GETTING TO HACKING CHECK BELOW WHERE IT SAYS "BASIC STUFF ABOUT COMPUTERS YOU SHOULD KNOW"
+*** IT IS ADVISED THAT YOU LEARN A LOW LEVEL PROGRAMMING LANGUAGE SUCH AS C++ BEFORE GETTING TO HACK
+*** TRY NOT TO GET OVERWHELMED BY THE AMOUNT OF CONTENT!!
 
 # EC-Council's Certified Ethical Hacker (CEH) 
 3. http://www.mediafire.com/download/5tex1gndiis0rz3/Reconnaissance+-+Footprinting.rar 					-- Reconnaissance/Footprinting
@@ -68,38 +71,38 @@ Don't know where to start? <----------------------------------------------------
 74. http://www.mediafire.com/download/5ut59in0l6okeaq/Introduction+to+Penetration+Testing+Using+Metasploit.rar		-- Introduction to Pentesting using Metasploit
 
 # Computer Hacking Forensic Investigator (CHFI)
-88. http://www.mediafire.com/file/yinvs2vtn4ix9z0/CHFI_Module_1_Introduction.rar					—- Module 1 Introduction
-89. http://www.mediafire.com/file/9yai0s961xkb7p3/CHFI_Module_2_Forensics_Investigation_Process.rar			—- Module 2 Forensics & Investigation Process
-90. http://www.mediafire.com/file/l16n7as0zc5fgb4/CHFI_Module_3_Searching_%26_Seizing.rar				—- Module 3 Searching & Seizing
-91. http://www.mediafire.com/file/3ajk8erktw1a4ug/CHFI_Module_4_Digital_Evidence%282%29.rar				—- Module 4 Digital Evidence
-92. http://www.mediafire.com/file/8oarrkysj2pyymo/CHFI_Module_5_Responder_Procedures.rar				—- Module 5 Responder Procedures
-93. http://www.mediafire.com/file/jqqoiy6ko91ov5c/CHFI_Module_6_Forensic_Lab.rar					—- Module 6 Forensic Lab
-94. http://www.mediafire.com/file/unk51i52idt53ay/CHFI_Module_7_Hard_Disks_%26__File_Systems.rar			—- Module 7 Hard Disks & File Systems
-95. http://www.mediafire.com/file/6azb12untw5itww/CHFI_Module_8_Windows_Forensics.rar					—- Module 8 Windows Forensics
-96. http://www.mediafire.com/file/3dzf4qdln3pn6qi/CHFI_Module_9_Data_Acquisition_and_Duplication.rar			—- Module 9 Data Akquisition & Duplication
-97. http://www.mediafire.com/file/ifl18p77a10c2az/CHFI_Module_10_Recovering_Deleted_Files_and_Partitions.rar		—- Module 10 Recovering deleted Files & & partitions
-98. http://www.mediafire.com/file/2zabeg7axi7cwdd/CHFI_Module_11_Using_Access_Data_FTK.rar				—- Module 11 Using Access Data FTK
-99. http://www.mediafire.com/file/m1nop2yk6pwsvn0/CHFI_Module_12_Using_EnCase.rar					—- Module 12 Using EnCase
-100. http://www.mediafire.com/file/5aay0ed5uzt8y97/CHFI_Module_13_Steganography.rar					—- Module 13 Steganography
-101. http://www.mediafire.com/file/k16714g10alwwkb/CHFI_Module_14_Password_Crackers.rar					—- Module 14 Password Crackers
-102. http://www.mediafire.com/file/990ili11icinm5c/CHFI_Module_15_Log_Correlation.rar					—- Module 15 Log Correlation
-103. http://www.mediafire.com/file/qsrr2yn0ptreyre/CHFI_Module_16_Network_Forensics.rar					—- Module 16 Network Forensics
-104. http://www.mediafire.com/file/ip1ded3iumcr3dg/CHFI_Module_17_Wireless_Attacks.rar					—- Module 17 Wireless Attacks
-105. http://www.mediafire.com/file/ldrew3v8x298htu/CHFI_Module_18_Web_Attacks.rar					—- Module 18 Web Attacks
-106. http://www.mediafire.com/file/82xh758lt2by927/CHFI_Module_19_Email_Crimes.rar					—- Module 19 Email Crimes
-107. http://www.mediafire.com/file/8lu73yi1s79iw1b/CHFI_Module_20_Mobile_Investigation.rar				—- Module 20 Mobile Investigation
-108. http://www.mediafire.com/file/jz70shpdzso40ne/CHFI_Module_21_Investigative_Reports.rar				—- Module 21 Investigative Reports
-109. http://www.mediafire.com/file/926yco1rhqo2ow2/CHFI_Module_22_Expert_Witness.rar					—- Module 22 Expert Witness
+88. http://www.mediafire.com/file/yinvs2vtn4ix9z0/CHFI_Module_1_Introduction.rar					—- 1 Introduction
+89. http://www.mediafire.com/file/9yai0s961xkb7p3/CHFI_Module_2_Forensics_Investigation_Process.rar			—- 2 Forensics & Investigation Process
+90. http://www.mediafire.com/file/l16n7as0zc5fgb4/CHFI_Module_3_Searching_%26_Seizing.rar				—- 3 Searching & Seizing
+91. http://www.mediafire.com/file/3ajk8erktw1a4ug/CHFI_Module_4_Digital_Evidence%282%29.rar				—- 4 Digital Evidence
+92. http://www.mediafire.com/file/8oarrkysj2pyymo/CHFI_Module_5_Responder_Procedures.rar				—- 5 Responder Procedures
+93. http://www.mediafire.com/file/jqqoiy6ko91ov5c/CHFI_Module_6_Forensic_Lab.rar					—- 6 Forensic Lab
+94. http://www.mediafire.com/file/unk51i52idt53ay/CHFI_Module_7_Hard_Disks_%26__File_Systems.rar			—- 7 Hard Disks & File Systems
+95. http://www.mediafire.com/file/6azb12untw5itww/CHFI_Module_8_Windows_Forensics.rar					—- 8 Windows Forensics
+96. http://www.mediafire.com/file/3dzf4qdln3pn6qi/CHFI_Module_9_Data_Acquisition_and_Duplication.rar			—- 9 Data Akquisition & Duplication
+97. http://www.mediafire.com/file/ifl18p77a10c2az/CHFI_Module_10_Recovering_Deleted_Files_and_Partitions.rar		—- 10 Recovering deleted Files & & partitions
+98. http://www.mediafire.com/file/2zabeg7axi7cwdd/CHFI_Module_11_Using_Access_Data_FTK.rar				—- 11 Using Access Data FTK
+99. http://www.mediafire.com/file/m1nop2yk6pwsvn0/CHFI_Module_12_Using_EnCase.rar					—- 12 Using EnCase
+100. http://www.mediafire.com/file/5aay0ed5uzt8y97/CHFI_Module_13_Steganography.rar					—- 13 Steganography
+101. http://www.mediafire.com/file/k16714g10alwwkb/CHFI_Module_14_Password_Crackers.rar					—- 14 Password Crackers
+102. http://www.mediafire.com/file/990ili11icinm5c/CHFI_Module_15_Log_Correlation.rar					—- 15 Log Correlation
+103. http://www.mediafire.com/file/qsrr2yn0ptreyre/CHFI_Module_16_Network_Forensics.rar					—- 16 Network Forensics
+104. http://www.mediafire.com/file/ip1ded3iumcr3dg/CHFI_Module_17_Wireless_Attacks.rar					—- 17 Wireless Attacks
+105. http://www.mediafire.com/file/ldrew3v8x298htu/CHFI_Module_18_Web_Attacks.rar					—- 18 Web Attacks
+106. http://www.mediafire.com/file/82xh758lt2by927/CHFI_Module_19_Email_Crimes.rar					—- 19 Email Crimes
+107. http://www.mediafire.com/file/8lu73yi1s79iw1b/CHFI_Module_20_Mobile_Investigation.rar				—- 20 Mobile Investigation
+108. http://www.mediafire.com/file/jz70shpdzso40ne/CHFI_Module_21_Investigative_Reports.rar				—- 21 Investigative Reports
+109. http://www.mediafire.com/file/926yco1rhqo2ow2/CHFI_Module_22_Expert_Witness.rar					—- 22 Expert Witness
 	
 # Certified Information Systems Security Pro (CISSP)
-110. http://www.mediafire.com/file/x3zeprhl92pad8v/CISSP_Module_1_Security_and_Risk_Management.rar			—- CISSP Module 1 Security and Risk Management
-111. http://www.mediafire.com/file/d9acozildd28f5b/CISSP_Module_2_Asset_Security.rar					—- CISSP Module 2 Asset Security
-112. http://www.mediafire.com/file/bn8xf99fe3obo37/CISSP_Module_3_Security_Engineering.rar				—- CISSP Module 3 Security Engineering
-113. http://www.mediafire.com/file/znr4pbbbn9qcges/CISSP_Module_4_Communication_and_Network_Security.rar		—- CISSP Module 4 Communication and Network Security
-114. http://www.mediafire.com/file/gdppws5602q99m6/CISSP_Module_5_Identity_and_Access_Management.rar			—- CISSP Module 5 Identity and Access Management
-115. http://www.mediafire.com/file/wpwwr58ba2cpva3/CISSP_Module_6_Security_Assessment_Testing.rar			—- CISSP Module 6 Security Assessment Testing
-116. http://www.mediafire.com/file/1yn1ilhrrxj3ci9/CISSP_Module_7_Security_Operations.rar				—- CISSP Module 7 Security Operations
-117. http://www.mediafire.com/file/l35bcalku7d225c/CISSP_Module_8_Software_Development_Security.rar			—- CISSP Module 8 Software Development Security	
+110. http://www.mediafire.com/file/x3zeprhl92pad8v/CISSP_Module_1_Security_and_Risk_Management.rar			—- 1 Security and Risk Management
+111. http://www.mediafire.com/file/d9acozildd28f5b/CISSP_Module_2_Asset_Security.rar					—- 2 Asset Security
+112. http://www.mediafire.com/file/bn8xf99fe3obo37/CISSP_Module_3_Security_Engineering.rar				—- 3 Security Engineering
+113. http://www.mediafire.com/file/znr4pbbbn9qcges/CISSP_Module_4_Communication_and_Network_Security.rar		—- 4 Communication and Network Security
+114. http://www.mediafire.com/file/gdppws5602q99m6/CISSP_Module_5_Identity_and_Access_Management.rar			—- 5 Identity and Access Management
+115. http://www.mediafire.com/file/wpwwr58ba2cpva3/CISSP_Module_6_Security_Assessment_Testing.rar			—- 6 Security Assessment Testing
+116. http://www.mediafire.com/file/1yn1ilhrrxj3ci9/CISSP_Module_7_Security_Operations.rar				—- 7 Security Operations
+117. http://www.mediafire.com/file/l35bcalku7d225c/CISSP_Module_8_Software_Development_Security.rar			—- 8 Software Development Security	
 
 # Certified Information Systems Auditor (CISA)
 118. http://www.mediafire.com/file/7cb389z90ajw6zm/CISA_-_Lesson_1.rar							—- CISA Lesson 1
@@ -109,6 +112,14 @@ Don't know where to start? <----------------------------------------------------
 122. http://www.mediafire.com/file/p46jtleg2rj5nhr/CISA_-_Lesson_5.rar							—- CISA Lesson 5
 123. http://www.mediafire.com/file/cpdin9zuk2p349s/CISA_-_Lesson_6.rar							—- CISA Lesson 6
 124. http://www.mediafire.com/file/icqjn9oli47k7o3/CISA_-_Lesson_7.rar							—- CISA Lesson 7 
+
+# Certified Information Security Manager (CISM)
+125. http://www.mediafire.com/file/aglbuk1ru1vkqv6/CISM_-_Domain_1_Information_Security_Governance.rar			-- Information Security Governance
+126. http://www.mediafire.com/file/ljs5q7buasy02fg/CISM_-_Domain_2_Risk_Management.rar					-- Risk Management
+127. http://www.mediafire.com/file/ii40g1jk2ubla8x/CISM_-_Domain_3_Information_Security_Program.rar			-- Information Security Program
+128. http://www.mediafire.com/file/6vkgyp69hvjmy65/CISM_-_Domain_4_Information_Security_Program_Implementation.rar	-- Information Security Program Implementation
+129. http://www.mediafire.com/file/hm5971p1wgv39fg/CISM_-_Domain_5_Information_Security_Program_Management.rar		-- Incident Management and Response
+130. http://www.mediafire.com/file/pz4idc39dy83mzd/CISM_-_Domain_6_Incident_Management_and_Response.rar
 
 # Coursera
 30. http://www.mediafire.com/download/mvk782rt6k28yha/Software+Security.rar 						-- Software Security
@@ -145,6 +156,9 @@ Don't know where to start? <----------------------------------------------------
 47. http://www.mediafire.com/download/yraijpmuzoa1zpn/Cisco+CCNA+Security%3B+Introduction+to+Network+Security.rar 	-- Introduction to Network Security
 48. http://www.mediafire.com/download/lmj3ri990ou3j64/Cisco_CCNA_Security%3B_AAA_and_IP_Security.rar 			-- AAA and IP Security
 49. http://www.mediafire.com/download/lhajdkufn9oi5ta/Cisco+CCNA+Security%3B+Firewalls+and+VPNs.rar 			-- Firewalls and VPNs
+
+
+## BASIC STUFF ABOUT COMPUTERS YOU SHOULD KNOW
 
 # CompTIA A+ (220-801)
 50. http://www.mediafire.com/download/f5013b98tc40fj8/CompTIA+A%2B+Part+1%3B+Computer+Hardware.rar 			-- CompTIA A+ Part 1: Computer Hardware
