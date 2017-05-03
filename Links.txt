@@ -51,6 +51,9 @@ Don't know where to start? <----------------------------------------------------
 17. http://www.mediafire.com/download/33z5epburhu1xgy/Evading+IDS%2C+Firewalls%2C+and+Honeypots.rar 			-- Evading IDS, Firewalls, and Honeypots
 18. http://www.mediafire.com/download/l45v3ne52qr9llw/Mobile+platforms.rar 						-- Hacking Mobile Platforms
 
+# Offensive Security Certification - by mickers, you rock dude!
+http://www.mediafire.com/file/8w35cc04z4q26bj/oscp-training-videos.rar
+
 # More hacking courses
  0. http://www.mediafire.com/download/492h7o887yxexha/PT+and+EH+with+Kali+Linux.rar  					-- Introduction to Pentesting and Ethical Hacking with Kali Linux
 19. http://www.mediafire.com/download/2kczrn29gt6fdp3/Introduction+to+Firewalls.rar 					-- Introduction to Firewalls
