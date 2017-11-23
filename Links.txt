@@ -7,7 +7,7 @@
                               __/ |                          
                              |___/                           
 
-Courses pirated & dumped by Case & S1rlancelot                                                               
+Courses pirated & dumped by Case, S1rlancelot & dave + some random contributions                                                               
 irc.anonops.com/6697
 #learninghub
 
@@ -155,6 +155,18 @@ http://www.mediafire.com/file/8w35cc04z4q26bj/oscp-training-videos.rar
 85. http://www.mediafire.com/download/sl36dmuomdld4qa/RaspberryPi+HomeServer.rar					-- Raspberry Pi Home Server
 86. http://www.mediafire.com/download/5u2g1svecr1iukm/Raspberry+for+Devs.rar						-- Raspberry Pi for Developers
 
+[We need feedback on the following courses]
+
+132. Code-Clinic-Python,
+     Programming-Fundamentals-Real-World,
+     Python-3-Essential-Training.zip,
+     Python-GUI-Development-Tkinter.zip
+     Up-Running-Python.zip
+     Up-Running-Python-Django.zip -> https://gofile.io/?c=1qWeyt
+
+133. Penetration-Testing-Essential-Training https://gofile.io/?c=QEpfvW
+134. Become a C++ developer (6 courses): https://gofile.io/?c=J5R0F8
+
 # Cisco CCNA Security (640-554)
 47. http://www.mediafire.com/download/yraijpmuzoa1zpn/Cisco+CCNA+Security%3B+Introduction+to+Network+Security.rar 	-- Introduction to Network Security
 48. http://www.mediafire.com/download/lmj3ri990ou3j64/Cisco_CCNA_Security%3B_AAA_and_IP_Security.rar 			-- AAA and IP Security
@@ -232,4 +244,4 @@ Alchemy synth http://www.mediafire.com/file/x301h7qxz7jxpyz/Alchemy+Synth+Fundam
 * vulnhub.com
 
 Other free hacking/IT videos: www.cybrary.it
-Interesting github: https://github.com/hackedteam/  -- Check out Hacking Team if you haven't!
+Interesting github: https://github.com/hackedteam/ -- Check out Hacking Team if you haven't!
